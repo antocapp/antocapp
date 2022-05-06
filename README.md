@@ -26,13 +26,13 @@ Audiens gives you remarkable data insights & marketing campaign ideas to grow re
 
 For more, check the website: [audiens.com](https://audiens.com)
 
-### ForexTradeBot
+### ForexTradeBot
 
 Free, open source forex trading bot integrated with Oanda Broker and Telegram, with the possibility to implement machine learning and reinforcement learning strategies, besides classical ones.
 
 For more, check the repository on GitHub: [FxTrade](https://github.com/antocapp/fx-trade)
 
-### BERT for Italian Question Answering
+### BERT for Italian Question Answering
 
 This transformer model is the uncased base version of the italian BERT trained on the question answering task for the italian language. It has been trained using [SQuAD-it](http://sag.art.uniroma2.it/demo-software/squadit/), derived from the original SQuAD dataset and obtained through the semi-automatic translation of the SQuAD dataset from English to Italian.
 
