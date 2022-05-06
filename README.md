@@ -38,4 +38,6 @@ This transformer model is the uncased base version of the italian BERT trained o
 
 For more, check the page on the [HuggingFace's ModelHub](https://huggingface.co/antoniocappiello/bert-base-italian-uncased-squad-it) to play with it or see how to try it through the transformers library.
 
+## Contact
+
 If you would like to discuss about these projects, contribute or know more, [send me an email](mailto:antoniocappiello@gmx.com).
